@@ -15,8 +15,4 @@ public class HomeTask {
     public static double calc(float a, float b, float c, float d) {
     return (a*(b+(c/d)));
     }
-
-    public static boolean Compare () {
-
-    }
 }
